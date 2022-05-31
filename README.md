@@ -1,4 +1,4 @@
-# Winner of 🏆 Best Solo Hack at LexHacks 2022 and 🏆 Most Advanced Method at NHacks VII.
+# 🏆 Winner of Best Solo Hack at LexHacks 2022 and Most Advanced Method at NHacks VII.
 
 # TutorHub
 TutorHub provides College students with easy and instant access to professional tutors. The website features support for MIDI keyboards, meaning that music tutors can plug in a musical keyboard and have their keypresses be displayed in realtime to the student to follow along. 
