@@ -12,6 +12,7 @@ Due to the time constraints of the hackathon I did not have time to break down t
 * ExpressJS
 * Socket.io
 * Simple-Peer (for peer2peer communications)
+* TailwindCSS
 * Firebase Realtime DB
 
 # 📹 Watch the presentation video here:
