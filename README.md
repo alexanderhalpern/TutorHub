@@ -13,4 +13,4 @@ Due to the time constraints of the hackathon I did not have time to break down t
 * Simple-Peer (for peer2peer communications)
 * Firebase Realtime DB
 
-[![YouTube Video on TutorHub](https://imgur.com/2IltFUE.png =250x)](https://www.youtube.com/watch?v=kX6oQZZsLaM "TutorHub Youtube Video")
+[![YouTube Video on TutorHub](https://imgur.com/2IltFUEm.png)](https://www.youtube.com/watch?v=kX6oQZZsLaM "TutorHub Youtube Video")
