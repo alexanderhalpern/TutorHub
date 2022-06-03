@@ -7,10 +7,10 @@ TutorHub provides College students with easy and instant access to professional 
 Due to the time constraints of the hackathon I did not have time to break down the code into components, so it is comprised of one large file.
 
 # Technologies
+* Socket.io
 * ReactJS
 * NodeJS
 * ExpressJS
-* Socket.io
 * Simple-Peer (for peer2peer communications)
 * TailwindCSS
 * Firebase Realtime DB
