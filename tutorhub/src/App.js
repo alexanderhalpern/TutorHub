@@ -64,9 +64,6 @@ function App() {
     console.log(activeNotes);
   }, [activeNotes]);
 
-  // authenticate user with google sign in
-  useEffect(() => {}, []);
-
   const MIDINoteLog = ({ input }) => {
     const event = useMIDINote(input, { channel: 1 }); // Intially returns undefined
     if (!event) {
